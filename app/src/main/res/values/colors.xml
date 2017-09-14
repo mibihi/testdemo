@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#18d0b1</color>
+    <color name="colorPrimaryDark">#0db397</color>
+
+    <!--<color name="colorPrimaryDark">@color/appLightRed</color>
+-->
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="appLightGrey">#ffe5e4e4</color>
+    <color name="appSuperLightGrey">#f5f3f3</color>
+
+    <color name="appOffWhite">#f9f8f8</color>
+
+    <color name="appMediumGrey">#ffa6a6a6</color>
+    <color name="appMediumLightGrey">#ffb4b4b4</color>
+
+
+    <color name="roundedImageViewBorder">#ffd9d6c5</color>
+
+    <color name="appBackground">#f1f1f1</color>
+
+    <color name="appWhite">#ffffffff</color>
+    <color name="appBlack">#ff000000</color>
+
+    <color name="appDarkGrey">#ff424242</color>
+    <color name="appDarkGreen">#008e76</color>
+    <color name="filterCategoryBackground">#535353</color>
+
+    <color name="menu_item_selected_color">#b7e44f47</color>
+    <color name="primaryText">#ff000000</color>
+    <color name="secondaryText">#727272</color>
+    <color name="app_deep_orange">#fff15a24</color>
+    <color name="appLightRed">#ff9c4b</color>
+    <color name="appMediumLightRed">#c8f6846a</color>
+    <color name="appSuperLightRed">#ffeeec</color>
+
+    <color name="appWhiteRed">#fffaf8</color>
+    <color name="appHeadingDark">#525252</color>
+
+    <color name="semiTransparent">#96060606</color>
+    <color name="semiTransparentWhite">#96ffffff</color>
+
+    <color name="partialTransparent">#8c060606</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="viewpager_internal_content_text_color">#ff666666</color>
+
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">
+        @color/vpi__bright_foreground_holo_light
+    </color>
+    <color name="vpi__bright_foreground_inverse_holo_light">
+        @color/vpi__bright_foreground_holo_dark
+    </color>
+
+    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+    <color name="default_line_indicator_selected_color">#ff33b5e5</color>
+    <color name="default_line_indicator_unselected_color">#ffbbbbbb</color>
+    <color name="default_title_indicator_footer_color">#ff33b5e5</color>
+    <color name="default_title_indicator_selected_color">#ffffffff</color>
+    <color name="default_title_indicator_text_color">#bbffffff</color>
+    <color name="default_underline_indicator_selected_color">#ff33b5e5</color>
+    <color name="appYellow">#eec638</color>
+
+
+    <!--uCrop Activity-->
+    <color name="ucrop_color_toolbar">#FF6E40</color>
+    <color name="ucrop_color_statusbar">#CC5833</color>
+    <color name="ucrop_color_toolbar_widget">#fff</color>
+    <color name="ucrop_color_widget">#000</color>
+    <color name="ucrop_color_widget_active">#FF6E40</color>
+    <color name="ucrop_color_widget_background">#fff</color>
+    <color name="ucrop_color_widget_text">#000</color>
+    <color name="ucrop_color_progress_wheel_line">#808080</color>
+    <color name="ucrop_color_crop_background">#000</color>
+
+    <!--Crop View-->
+    <color name="ucrop_color_default_crop_grid">#80ffffff</color>
+    <color name="ucrop_color_default_crop_frame">#ffffff</color>
+    <color name="ucrop_color_default_dimmed">#8c000000</color>
+    <color name="ucrop_color_default_logo">#4f212121</color>
+
+    <color name="default_screen_bg">#f9f9f9</color>
+    <color name="rounded_container_bg">#222222</color>
+    <color name="rounded_container_border">#3b3f44</color>
+    <color name="light_gray_header_color">#646663</color>
+
+    <color name="components_color">#f48fb1</color>
+    <color name="machinery_color">#90caf9</color>
+    <color name="footwear_color">#ffcc80</color>
+    <color name="leather_color">#ce93d8</color>
+    <color name="sample_bg_color">#f3f3f3</color>
+    <color name="darkBlue">#38474f</color>
+    <color name="tinContainerColor">#f5f5f5</color>
+
+    <color name="dark_red">#F04146</color>
+</resources>
